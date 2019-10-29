@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">firstKotlinApp</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="garfield_quote">\"The most active thing about me is my imagination\"</string>
+</resources>
